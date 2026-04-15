@@ -1,6 +1,6 @@
 # popping-and-locking-pi-theme
 
-A Pi package that adds the Popping and Locking theme for pi-agent.
+A Pi package that adds the Popping and Locking theme for pi-agent. I could not help myself....
 
 ## Install
 
@@ -33,7 +33,8 @@ You can also set it in `~/.pi/agent/settings.json` or `.pi/settings.json`:
 Add a screenshot at `images/popping-and-locking-preview.png` and update this section to embed it:
 
 ```markdown
-![Popping and Locking theme preview](images/popping-and-locking-preview.png)
+![Popping and Locking theme preview 1](images/example1.png)
+![Popping and Locking theme preview 1](images/example2.png)
 ```
 
 If you want to show the package in the pi package gallery later, host that image somewhere public and add `pi.image` to `package.json`.
@@ -43,6 +44,3 @@ If you want to show the package in the pi package gallery later, host that image
 - `themes/popping-and-locking.json` — theme definition
 - `package.json` — Pi package manifest
 
-## License
-
-MIT

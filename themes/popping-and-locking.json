@@ -32,7 +32,7 @@
     "accent": "composerBlue",
     "border": "brightBlue",
     "borderAccent": "composerBlue",
-    "borderMuted": "brightYellow",
+    "borderMuted": "brightRed",
     "success": "green",
     "error": "brightRed",
     "warning": "brightYellow",
@@ -51,7 +51,7 @@
     "toolErrorBg": "toolErrorBg",
     "toolTitle": "brightBlue",
     "toolOutput": "brightWhite",
-    "mdHeading": "brightYellow",
+    "mdHeading": "brightRed",
     "mdLink": "brightBlue",
     "mdLinkUrl": "white",
     "mdCode": "brightYellow",
@@ -77,7 +77,7 @@
     "thinkingMinimal": "white",
     "thinkingLow": "blue",
     "thinkingMedium": "brightBlue",
-    "thinkingHigh": "brightMagenta",
+    "thinkingHigh": "red",
     "thinkingXhigh": "brightRed",
     "bashMode": "brightYellow"
   }

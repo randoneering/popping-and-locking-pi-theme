@@ -29,9 +29,9 @@
     "toolBorder": "#99c6ca"
   },
   "colors": {
-    "accent": "composerBlue",
+    "accent": "brightYellow",
     "border": "brightBlue",
-    "borderAccent": "composerBlue",
+    "borderAccent": "brightYellow",
     "borderMuted": "brightBlack",
     "success": "green",
     "error": "brightRed",

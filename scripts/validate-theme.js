@@ -16,9 +16,9 @@ if (theme.colors.borderAccent !== 'composerBlue') {
   );
 }
 
-if (theme.colors.borderMuted !== 'brightYellow') {
+if (theme.colors.borderMuted !== 'brightRed') {
   throw new Error(
-    `Expected colors.borderMuted to equal brightYellow, got ${theme.colors.borderMuted}`
+    `Expected colors.borderMuted to equal brightRed, got ${theme.colors.borderMuted}`
   );
 }
 

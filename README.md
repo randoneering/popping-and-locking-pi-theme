@@ -4,7 +4,7 @@ A Pi package that adds the Popping and Locking theme for pi.
 
 ## Install
 
-Install from npm:
+Install from npm: (working on this!!!, not ready!!)
 
 ```bash
 pi install npm:popping-and-locking-pi-theme

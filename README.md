@@ -30,14 +30,10 @@ You can also set it in `~/.pi/agent/settings.json` or `.pi/settings.json`:
 
 ## Preview
 
-Add a screenshot at `images/popping-and-locking-preview.png` and update this section to embed it:
-
-```markdown
 ![Popping and Locking theme preview 1](images/example1.png)
-![Popping and Locking theme preview 1](images/example2.png)
-```
+![Popping and Locking theme preview 2](images/example2.png)
 
-If you want to show the package in the pi package gallery later, host that image somewhere public and add `pi.image` to `package.json`.
+
 
 ## Package layout
 

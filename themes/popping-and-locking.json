@@ -16,6 +16,7 @@
     "brightGreen": "#b8bb26",
     "brightYellow": "#fabd2f",
     "brightBlue": "#99c6ca",
+    "composerBlue": "#8ecae6",
     "brightMagenta": "#d3869b",
     "brightCyan": "#7ec16e",
     "brightWhite": "#ebdbb2",
@@ -28,9 +29,9 @@
     "toolBorder": "#99c6ca"
   },
   "colors": {
-    "accent": "blue",
+    "accent": "composerBlue",
     "border": "brightBlue",
-    "borderAccent": "brightBlue",
+    "borderAccent": "composerBlue",
     "borderMuted": "brightBlack",
     "success": "green",
     "error": "brightRed",

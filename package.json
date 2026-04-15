@@ -1,15 +1,22 @@
 {
   "name": "popping-and-locking-pi-theme",
   "version": "1.0.0",
-  "description": "A Pi package that adds the Popping and Locking theme for pi-agent.",
+  "description": "A Pi package that adds the Popping and Locking theme for pi.",
   "keywords": [
     "pi-package",
-    "pi-agent",
+    "pi",
     "pi-theme",
     "theme",
     "terminal-theme"
   ],
   "license": "MIT",
+  "files": [
+    "themes",
+    "images",
+    "scripts",
+    "README.md",
+    "LICENSE"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/randoneering/popping-and-locking-pi-theme.git"
@@ -22,6 +29,9 @@
     "test": "node scripts/validate-theme.js"
   },
   "pi": {
-    "themes": ["./themes"]
+    "themes": [
+      "./themes"
+    ],
+    "image": "https://raw.githubusercontent.com/randoneering/popping-and-locking-pi-theme/main/images/example1.png"
   }
 }
